@@ -1,8 +1,8 @@
 #!/bin/bash
 
-base_directory="/opt/minecraft/servers/"
-base_jar_directory="/opt/minecraft/tools/jars/"
-base_stub_path="/opt/minecraft/tools/stubs/"
+base_directory="/home/minecraft/servers/"
+base_jar_directory="/home/minecraft/tools/jars/"
+base_stub_path="/home/minecraft/tools/stubs/"
 base_supervisor_path="/etc/supervisor/conf.d/"
 server_types=("vanilla" "spigot")
 
